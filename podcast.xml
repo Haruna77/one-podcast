@@ -36,7 +36,7 @@
     </item>
      <item>
       <title>エピソード03：タイトル名</title>
-      <itunes:author>あなたの名前</itunes:author>
+      <itunes:author>UTAGEでテスト</itunes:author>
       <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
       <description>このエピソードの内容についてのより詳しい説明</description>
       <enclosure url="https://utage-system.com/audio/PH8ftymliZ5S" length="17816723" type="audio/mpeg"/>
