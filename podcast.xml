@@ -7,7 +7,7 @@
     <itunes:author>ONE</itunes:author>
     <itunes:summary>ONE限定の音声コラムです</itunes:summary>
     <description>聞き流し用、音声コラムポッドキャスト</description>
-    <itunes:image href="https://drive.google.com/file/d/1IDFQEl-xNBN8LkVbCW2gtMG81oWQZXF8/view?usp=drive_link" />
+    <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/SMTLw6zyZJNmzfgITgfScKJdw350TCZ3Xw4QyQUF.jpg" />
     <itunes:category text="教育">
       <itunes:category text="語学学習"/>
     </itunes:category>
@@ -39,10 +39,10 @@
       <itunes:author>あなたの名前</itunes:author>
       <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
       <description>このエピソードの内容についてのより詳しい説明</description>
-      <enclosure url="https://drive.google.com/file/d/1sasMtpsTGnnJUBNWNUCA8D92rTicty4j/view?usp=drive_link" length="7557761" type="audio/x-m4a"/>
-      <guid>https://drive.google.com/file/d/1sasMtpsTGnnJUBNWNUCA8D92rTicty4j/view?usp=drive_link</guid>
+      <enclosure url="https://utage-system.com/audio/PH8ftymliZ5S" length="17816723" type="audio/mpeg"/>
+      <guid>https://utage-system.com/audio/PH8ftymliZ5S</guid>
       <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <itunes:duration>317</itunes:duration>
+      <itunes:duration>741</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     </channel>
