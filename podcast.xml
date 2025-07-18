@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>ONE限定 音声コラム</title>
+    <link>https://haruna77.github.io/one-podcast/</link>
+    <language>ja-jp</language>
+    <itunes:author>ONE</itunes:author>
+    <itunes:summary>ONE限定の音声コラムです</itunes:summary>
+    <description>聞き流し用、音声コラムポッドキャスト</description>
+    <itunes:image href="https://drive.google.com/file/d/1IDFQEl-xNBN8LkVbCW2gtMG81oWQZXF8/view?usp=drive_link" />
+    <itunes:category text="教育">
+      <itunes:category text="語学学習"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>エピソード01：タイトル名</title>
+      <itunes:author>あなたの名前</itunes:author>
+      <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
+      <description>このエピソードの内容についてのより詳しい説明</description>
+      <enclosure url="https://drive.google.com/file/d/1pvvdbDaiv_EkaMhxwkDF007MIJ4koH97/view?usp=drive_link" length="9585674" type="audio/x-m4a"/>
+      <guid>https://drive.google.com/file/d/1pvvdbDaiv_EkaMhxwkDF007MIJ4koH97/view?usp=drive_link</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>402</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>エピソード02：タイトル名</title>
+      <itunes:author>あなたの名前</itunes:author>
+      <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
+      <description>このエピソードの内容についてのより詳しい説明</description>
+      <enclosure url="https://drive.google.com/file/d/1Kho5HhRBUcQG_GtMGSIv-Ui_8p5mNPgO/view?usp=drive_link" length="10222956" type="audio/x-m4a"/>
+      <guid>https://drive.google.com/file/d/1Kho5HhRBUcQG_GtMGSIv-Ui_8p5mNPgO/view?usp=drive_link</guid>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>428</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+     <item>
+      <title>エピソード03：タイトル名</title>
+      <itunes:author>あなたの名前</itunes:author>
+      <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
+      <description>このエピソードの内容についてのより詳しい説明</description>
+      <enclosure url="https://drive.google.com/file/d/1sasMtpsTGnnJUBNWNUCA8D92rTicty4j/view?usp=drive_link" length="7557761" type="audio/x-m4a"/>
+      <guid>https://drive.google.com/file/d/1sasMtpsTGnnJUBNWNUCA8D92rTicty4j/view?usp=drive_link</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>317</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    </channel>
+</rss>
