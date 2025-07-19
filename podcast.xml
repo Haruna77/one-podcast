@@ -35,14 +35,14 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
      <item>
-      <title>エピソード03：UTAGE音源</title>
-      <itunes:author>UTAGEでテスト</itunes:author>
-      <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
-      <description>このエピソードの内容についてのより詳しい説明</description>
-      <enclosure url="https://utage-system.com/audio/PH8ftymliZ5S" length="17816723" type="audio/mpeg"/>
-      <guid>https://utage-system.com/audio/PH8ftymliZ5S</guid>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <itunes:duration>741</itunes:duration>
+      <title>エピソード03：ダウンロードリンクでテスト</title>
+      <itunes:author>テスト</itunes:author>
+      <itunes:summary>ダウンロードリンクでテスト</itunes:summary>
+      <description>Googleドライブ</description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j" length="7557761" type="audio/x-m4a"/>
+      <guid>https://drive.google.com/uc?export=download&id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j</guid>
+      <pubDate>Thu, 19 Jul 2025 10:00:00 GMT</pubDate>
+      <itunes:duration>317</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     </channel>
