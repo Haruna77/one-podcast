@@ -39,8 +39,8 @@
       <itunes:author>テスト</itunes:author>
       <itunes:summary>ダウンロードリンクでテスト</itunes:summary>
       <description>Googleドライブ</description>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j" length="7557761" type="audio/x-m4a"/>
-      <guid>https://drive.google.com/uc?export=download&id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j" length="7557761" type="audio/x-m4a"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j</guid>
       <pubDate>Thu, 19 Jul 2025 10:00:00 GMT</pubDate>
       <itunes:duration>317</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
