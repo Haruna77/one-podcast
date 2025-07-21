@@ -1,48 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>ONE限定 音声コラム</title>
+    <title>ONE MINDSET</title>
     <link>https://haruna77.github.io/one-podcast/</link>
     <language>ja-jp</language>
-    <itunes:author>ONE</itunes:author>
-    <itunes:summary>ONE限定の音声コラムです</itunes:summary>
-    <description>聞き流し用、音声コラムポッドキャスト</description>
+    <itunes:author>かず</itunes:author>
+    <itunes:summary>ONEマインドセット</itunes:summary>
+    <description> </description>
     <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/SMTLw6zyZJNmzfgITgfScKJdw350TCZ3Xw4QyQUF.jpg" />
     <itunes:category text="教育">
-      <itunes:category text="語学学習"/>
+      <itunes:category text="コース"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>エピソード01：DLリンク</title>
-      <itunes:author>あなたの名前</itunes:author>
-      <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
-      <description>このエピソードの内容についてのより詳しい説明</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Kho5HhRBUcQG_GtMGSIv-Ui_8p5mNPgO" length="9585674" type="audio/x-m4a"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=1Kho5HhRBUcQG_GtMGSIv-Ui_8p5mNPgO</guid>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-      <itunes:duration>402</itunes:duration>
+      <title>00.ONE MINDSET概要</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1grYBZZhIviWXDs7R02avywvTWzxe7slP" length="4071421" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1grYBZZhIviWXDs7R02avywvTWzxe7slP</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>980</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>エピソード02：DLリンク</title>
-      <itunes:author>あなたの名前</itunes:author>
-      <itunes:summary>このエピソードの内容についての短い説明</itunes:summary>
-      <description>このエピソードの内容についてのより詳しい説明</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pvvdbDaiv_EkaMhxwkDF007MIJ4koH97" length="10222956" type="audio/x-m4a"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=1pvvdbDaiv_EkaMhxwkDF007MIJ4koH97</guid>
-      <pubDate>Wed, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <itunes:duration>428</itunes:duration>
+      <title>01.今までの常識を捨てる</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY" length="1952045" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>469</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-     <item>
-      <title>エピソード03：ダウンロードリンクでテスト</title>
-      <itunes:author>テスト</itunes:author>
-      <itunes:summary>ダウンロードリンクでテスト</itunes:summary>
-      <description>Googleドライブ</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j" length="7557761" type="audio/x-m4a"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=1sasMtpsTGnnJUBNWNUCA8D92rTicty4j</guid>
-      <pubDate>Thu, 19 Jul 2025 10:00:00 GMT</pubDate>
-      <itunes:duration>317</itunes:duration>
+    <item>
+      <title>02.全部うまくいく</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xj_xg_RUfNiqQ6iS_ATtJn-YOLW0Kalk" length="1647039" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1xj_xg_RUfNiqQ6iS_ATtJn-YOLW0Kalk</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>396</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>03.否定から入ってくる人は断捨離する</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GyXnoGTMV539B9qCRoNLSu0-p_zXIZqM" length="1658930" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1GyXnoGTMV539B9qCRoNLSu0-p_zXIZqM</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>398</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>04.成功ではなく、成長にフォーカスしろ</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f1kuBz-XFB3p-EEMDQn8htQeRZ4-Ady0" length="1186486" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1f1kuBz-XFB3p-EEMDQn8htQeRZ4-Ady0</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>285</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>05.うまくいかないのは全部自分のせいである</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qty6UXbvHIZs0R7-TiVsC77oyUpPVqRG" length="2912486" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1qty6UXbvHIZs0R7-TiVsC77oyUpPVqRG</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>701</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>06.一度決めたことをやめるダサい大人にならない</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1miQVR-f4oDmHT3bJQxTLy5z0nzIawUyx" length="1162234" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1miQVR-f4oDmHT3bJQxTLy5z0nzIawUyx</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>279</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>07.リスクを取らないことが最大のリスクである</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AuSvl_mbMq5_JP-d3iu6SUcX_7iVpNbH" length="1979913" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1AuSvl_mbMq5_JP-d3iu6SUcX_7iVpNbH</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>475</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>08.過去に囚われず今これからどうするかを考える</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14kI5-LvWtFdEHYdtk154-U5YM6jI1RE" length="1363890" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=14kI5-LvWtFdEHYdtk154-U5YM6jI1RE</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>327</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>09.量からしか質は生まれない</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Gtss0GEwm3It9_cFkXQsF3LhzYC3dXng" length="1666463" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1Gtss0GEwm3It9_cFkXQsF3LhzYC3dXng</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>400</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10.やったことがない人が言うアドバイスは100%時間の無駄である</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t5zTmQqZ7ZFtzG4lIhvlZlUZ66Y_HseB" length="1472471" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1t5zTmQqZ7ZFtzG4lIhvlZlUZ66Y_HseB</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>353</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11.友達は要らない</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hiCLwqxtcKTLFEaP2eW9e3zQHcAX1b_y" length="2203402" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1hiCLwqxtcKTLFEaP2eW9e3zQHcAX1b_y</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>529</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>12.お金を稼ぐのは別に難しくない</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Mcfx74aMdOv07xer-TAhgde7QvxvOeE7" length="1853025" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1Mcfx74aMdOv07xer-TAhgde7QvxvOeE7</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>445</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>13.限りある時間を無駄にしない</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lUKdOHSsSBifiJFeuKPt00B1Hfi43RDz" length="2403702" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1lUKdOHSsSBifiJFeuKPt00B1Hfi43RDz</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>576</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>14.辛い時の相談はすぐにする</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RagXnyd0q2QCDqyCRj_6Wrudwcvu35JF" length="1327220" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1RagXnyd0q2QCDqyCRj_6Wrudwcvu35JF</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>319</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>15.誰の話を聞くかが1番重要である</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M4EqO85YvLRhvQDUElKpko03VyEmOA4c" length="1982929" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1M4EqO85YvLRhvQDUElKpko03VyEmOA4c</guid>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>476</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     </channel>
