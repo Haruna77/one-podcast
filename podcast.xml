@@ -23,17 +23,18 @@
       <itunes:duration>980</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>01.今までの常識を捨てる</title>
-      <itunes:author>かず</itunes:author>
-      <itunes:summary> </itunes:summary>
-      <description> </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY" length="1952045" type="audio/mpeg"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY</guid>
-      <pubDate>Fri, 18 Jul 2025 01:00:00 GMT</pubDate>
-      <itunes:duration>469</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+  <title>01.今までの常識を捨てる</title>
+  <itunes:author>かず</itunes:author>
+  <itunes:summary> </itunes:summary>
+  <description> </description>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY" length="1952045" type="audio/mpeg"/>
+  <guid>https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY</guid>
+  <pubDate>Fri, 18 Jul 2025 01:00:00 GMT</pubDate>
+  <itunes:duration>469</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/6v7QqrEeTodiFFvRyL1fLhKwOuR9O0lTDKGExf2Q.jpg"/>
+</item>
     <item>
       <title>02.全部うまくいく</title>
       <itunes:author>かず</itunes:author>
