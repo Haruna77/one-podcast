@@ -7,7 +7,7 @@
     <itunes:author>かず</itunes:author>
     <itunes:summary>ONE Mindset音声プログラム</itunes:summary>
     <description> </description>
-    <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/JFk1kbvAKM8EkMqGSVFmIRXPYxcq05nRKCxYfnmh.jpg" />
+    <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mPk4uE7XhW1Wz4EsAWVYPH2LtWpT6h0Gfmkl9sqt.jpg" />
     <itunes:category text="教育">
       <itunes:category text="コース"/>
     </itunes:category>
@@ -937,13 +937,25 @@
           <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/cj5qqIojliAmMXoSCHhkNaa5gxdgocxq07u5QVoy.jpg" />
     </item>
     <item>
-      <title>77.マインドセットはもういいやって思わない</title>
+      <title>77.納得できないことにこそ成長機会がある</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZOADlX5a109okEhq24NOU2sXW2qfrOYB" length="2668979" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1ZOADlX5a109okEhq24NOU2sXW2qfrOYB</guid>
+      <pubDate>Tue, 5 Aug 2025 09:00:00 GMT</pubDate>
+      <itunes:duration>644</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/qel8TnJyqHp4Yb6gy2IMaLWZpmnyqQppXOyxQN42.jpg" />
+    </item>
+    <item>
+      <title>78.マインドセットはもういいやって思わない</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary> </itunes:summary>
       <description> </description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W27YE7UO12HXBmlQVe1XMO5hZyW9vlSi" length="3396356" type="audio/mpeg"/>
       <guid>https://drive.google.com/uc?export=download&amp;id=1W27YE7UO12HXBmlQVe1XMO5hZyW9vlSi</guid>
-      <pubDate>Tue, 29 Jul 2025 09:00:00 GMT</pubDate>
+      <pubDate>Tue, 5 Aug 2025 10:00:00 GMT</pubDate>
       <itunes:duration>817</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/JFk1kbvAKM8EkMqGSVFmIRXPYxcq05nRKCxYfnmh.jpg" />
