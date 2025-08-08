@@ -5,7 +5,7 @@
     <link>https://haruna77.github.io/one-podcast/</link>
     <language>ja-jp</language>
     <itunes:author>かず</itunes:author>
-    <itunes:summary>ONEマインドセット</itunes:summary>
+    <itunes:summary>ONE Mindset音声プログラム</itunes:summary>
     <description> </description>
     <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mPk4uE7XhW1Wz4EsAWVYPH2LtWpT6h0Gfmkl9sqt.jpg" />
     <itunes:category text="教育">
@@ -13,7 +13,7 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>00.ONE MINDSET概要</title>
+      <title>00.ONE Mindset概要</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary> </itunes:summary>
       <description> </description>
@@ -22,29 +22,31 @@
       <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
       <itunes:duration>980</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/JFk1kbvAKM8EkMqGSVFmIRXPYxcq05nRKCxYfnmh.jpg" />
     </item>
-<item>
-  <title>01.今までの常識を捨てる</title>
-  <itunes:author>かず</itunes:author>
-  <itunes:summary> </itunes:summary>
-  <description> </description>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY" length="1952045" type="audio/mpeg"/>
-  <guid>https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY</guid>
-  <pubDate>Fri, 18 Jul 2025 01:00:00 GMT</pubDate>
-  <itunes:duration>469</itunes:duration>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/6v7QqrEeTodiFFvRyL1fLhKwOuR9O0lTDKGExf2Q.jpg"/>
-</item>
     <item>
-      <title>02.全部うまくいく</title>
+      <title>01.今までの常識を捨てる</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary> </itunes:summary>
       <description> </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xj_xg_RUfNiqQ6iS_ATtJn-YOLW0Kalk" length="1647039" type="audio/mpeg"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=1xj_xg_RUfNiqQ6iS_ATtJn-YOLW0Kalk</guid>
-      <pubDate>Fri, 18 Jul 2025 02:00:00 GMT</pubDate>
-      <itunes:duration>396</itunes:duration>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY" length="1952045" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1R54ed5eDyowrhvr1ts7pg5WBlX40bTmY</guid>
+      <pubDate>Fri, 18 Jul 2025 01:00:00 GMT</pubDate>
+      <itunes:duration>469</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/m83f0qp6AKchKwpSQ9Fzy7pAK0FuPvAeXsn4W5Jz.jpg" />
+    </item>
+    <item>
+      <title>02.アウトプットから始める</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16qKyXRo0-ze8DMMJ9UgI7WeFZarV9Kyf" length="2186977" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=16qKyXRo0-ze8DMMJ9UgI7WeFZarV9Kyf</guid>
+      <pubDate>Fri, 18 Jul 2025 02:00:00 GMT</pubDate>
+      <itunes:duration>526</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/HdLal5CJlLWUfH7bhT4cVG3z9iyMS7Mp0SaUuqOL.jpg" />
     </item>
     <item>
       <title>03.否定から入ってくる人は断捨離する</title>
@@ -56,6 +58,7 @@
       <pubDate>Fri, 18 Jul 2025 03:00:00 GMT</pubDate>
       <itunes:duration>398</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/3GaYwCraetG9vimneiQ4hIMqbm2nQHGX01W9jCyr.jpg" />
     </item>
     <item>
       <title>04.成功ではなく、成長にフォーカスしろ</title>
@@ -67,6 +70,7 @@
       <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
       <itunes:duration>285</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ibvBH4nFmeRXjd9EKYVyGBzDhmuXbX8bwAsj6q0u.jpg" />
     </item>
     <item>
       <title>05.うまくいかないのは全部自分のせいである</title>
@@ -78,6 +82,7 @@
       <pubDate>Fri, 18 Jul 2025 05:00:00 GMT</pubDate>
       <itunes:duration>701</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/LWogPdtA0gH0cj5lA5JquGyEBGkw7bJWfznmGuuq.jpg" />
     </item>
     <item>
       <title>06.一度決めたことをやめるダサい大人にならない</title>
@@ -89,6 +94,7 @@
       <pubDate>Fri, 18 Jul 2025 06:00:00 GMT</pubDate>
       <itunes:duration>279</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/rwHV8RkC1iRHpPlYfDlYEKIWqi7QT0fFX2FCqFW3.jpg" />
     </item>
     <item>
       <title>07.リスクを取らないことが最大のリスクである</title>
@@ -100,6 +106,7 @@
       <pubDate>Fri, 18 Jul 2025 07:00:00 GMT</pubDate>
       <itunes:duration>475</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/VDqVYAshZvHWuv3cyGnqrKVBrHaEv59nmxgBCDEF.jpg" />
     </item>
     <item>
       <title>08.過去に囚われず今これからどうするかを考える</title>
@@ -111,6 +118,7 @@
       <pubDate>Fri, 18 Jul 2025 08:00:00 GMT</pubDate>
       <itunes:duration>327</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/px9SHU9e3pnDWoqUlkOqxOUlXM5Bk13VoPXjBc7V.jpg" />
     </item>
     <item>
       <title>09.量からしか質は生まれない</title>
@@ -122,6 +130,7 @@
       <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
       <itunes:duration>400</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/rq7ubOkRACuVnwvD3Cr4F0EFl59Ggd9On0EAxF3f.jpg" />
     </item>
     <item>
       <title>10.やったことがない人が言うアドバイスは100%時間の無駄である</title>
@@ -133,6 +142,7 @@
       <pubDate>Fri, 18 Jul 2025 10:00:00 GMT</pubDate>
       <itunes:duration>353</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/0ipNxHNYVM3iqFxMaVD8DoPoAOTnulC0XzLvPiBV.jpg" />
     </item>
     <item>
       <title>11.友達は要らない</title>
@@ -144,6 +154,7 @@
       <pubDate>Fri, 18 Jul 2025 11:00:00 GMT</pubDate>
       <itunes:duration>529</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/BsoWOqRhkPpHm0MksHieuHLqXhmHjVSik0TK8RmE.jpg" />
     </item>
     <item>
       <title>12.お金を稼ぐのは別に難しくない</title>
@@ -155,6 +166,7 @@
       <pubDate>Fri, 18 Jul 2025 12:00:00 GMT</pubDate>
       <itunes:duration>445</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/TUddZaayJfNB2EKGC4VgRVHLOwb5uqJTRFVU2bzO.jpg" />
     </item>
     <item>
       <title>13.限りある時間を無駄にしない</title>
@@ -166,6 +178,7 @@
       <pubDate>Fri, 18 Jul 2025 13:00:00 GMT</pubDate>
       <itunes:duration>576</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/QaffmIHxtQy4x6gZT5A6ls590rTi4AhjhVj5CMVd.jpg" />
     </item>
     <item>
       <title>14.辛い時の相談はすぐにする</title>
@@ -177,6 +190,7 @@
       <pubDate>Fri, 18 Jul 2025 14:00:00 GMT</pubDate>
       <itunes:duration>319</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/qeTfUgE1y3uclJsJqtqgv0Mi6uPJa6Ez3Oxaptc2.jpg" />
     </item>
      <item>
       <title>15.誰の話を聞くかが1番重要である</title>
@@ -188,6 +202,7 @@
       <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
       <itunes:duration>476</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/G8qErqwSej0abLd1uZJu76C59ussFKpROsSVE7jq.jpg" />
     </item>
     <item>
       <title>16.100%の実践をする</title>
@@ -199,6 +214,7 @@
       <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
       <itunes:duration>591</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/aSamPyr6twl8XSAjWmt7Q8H14lF3sH0Mhb16Gpz7.jpg" />
     </item>
     <item>
       <title>17.お金を稼ぐのは善である</title>
@@ -210,6 +226,7 @@
       <pubDate>Tue, 22 Jul 2025 01:00:00 GMT</pubDate>
       <itunes:duration>732</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/UsV9dbCvpih6xcZFhk38zk1dgwXJgLLv8GkzLYc3.jpg" />
     </item>
     <item>
       <title>18.全員に好かれようとしなくていい</title>
@@ -221,6 +238,7 @@
       <pubDate>Tue, 22 Jul 2025 02:00:00 GMT</pubDate>
       <itunes:duration>484</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/tb8DiiQGYn4o9SmWmHDLJ3ie7mE2MjtfAu7B8zHK.jpg" />
     </item>
     <item>
       <title>19.1番の資産は「仲間との繋がり」である</title>
@@ -232,6 +250,7 @@
       <pubDate>Tue, 22 Jul 2025 03:00:00 GMT</pubDate>
       <itunes:duration>612</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/SPmlcVOtUTFKXR0ciWWrPDVhcPrKE3gqso43bxKI.jpg" />
     </item>
     <item>
       <title>20.チャンスにみんな気付けてないだけ</title>
@@ -243,6 +262,7 @@
       <pubDate>Tue, 22 Jul 2025 04:00:00 GMT</pubDate>
       <itunes:duration>620</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/RseRbPcOBniZ8Ttbeix3cBAojskzhsA5iWbFDk6W.jpg" />
     </item>
     <item>
       <title>21.隣の芝生を見ない</title>
@@ -254,6 +274,7 @@
       <pubDate>Tue, 22 Jul 2025 05:00:00 GMT</pubDate>
       <itunes:duration>580</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/swYdZxX4yFinw3SLrSFVK0Ic0m1DlGdLk7sPGvHs.jpg" />
     </item>
     <item>
       <title>22.諦めなければ必ず結果は出る</title>
@@ -265,6 +286,7 @@
       <pubDate>Tue, 22 Jul 2025 06:00:00 GMT</pubDate>
       <itunes:duration>452</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/1szpvU5ZEI9AWyqogBXEFrkV2CvbQdmHMVfNZXw2.jpg" />
     </item>
     <item>
       <title>23.できない理由を考えるのではなく、どうしたら出来るかを考える</title>
@@ -276,6 +298,7 @@
       <pubDate>Tue, 22 Jul 2025 07:00:00 GMT</pubDate>
       <itunes:duration>455</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8okiNlMtNrT02puHAAtcsY7XovcQ8OUVH3dFLGoO.jpg" />
     </item>
     <item>
       <title>24.後悔は行動しなかった事で生まれる</title>
@@ -287,6 +310,7 @@
       <pubDate>Tue, 22 Jul 2025 08:00:00 GMT</pubDate>
       <itunes:duration>659</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ttpxmb8VkLzl4Pqqn5JE5ZOYVQ6XoSia4NJ37E4j.jpg" />
     </item>
     <item>
       <title>25.人生の必勝法は変化し続けること</title>
@@ -298,6 +322,7 @@
       <pubDate>Tue, 22 Jul 2025 09:00:00 GMT</pubDate>
       <itunes:duration>678</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/V91ddC5XJleqor9UwgexzfPx20NqvkqR7NlrPykH.jpg" />
     </item>
     <item>
       <title>26.凡事徹底</title>
@@ -309,6 +334,7 @@
       <pubDate>Tue, 22 Jul 2025 10:00:00 GMT</pubDate>
       <itunes:duration>673</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/02mV4zHx8OKQ0oopq0JhrJFcdfNLw9ExCArpsiBJ.jpg" />
     </item>
     <item>
       <title>27.自分の人生は100%MAX幸せであると決める</title>
@@ -320,6 +346,7 @@
       <pubDate>Tue, 22 Jul 2025 11:00:00 GMT</pubDate>
       <itunes:duration>722</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/10ZR8Yf0ehKzfZYtxiPR9J9wo9d6nvz1AlAqaYQP.jpg" />
     </item>
     <item>
       <title>28.不安になるのは暇な人だけ</title>
@@ -331,6 +358,7 @@
       <pubDate>Tue, 22 Jul 2025 12:00:00 GMT</pubDate>
       <itunes:duration>564</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/5GyzsVQBkMolA49SThqlmWY4TQkQ8nBYw7Abcy9Q.jpg" />
     </item>
     <item>
       <title>29.志高く</title>
@@ -342,6 +370,7 @@
       <pubDate>Tue, 22 Jul 2025 13:00:00 GMT</pubDate>
       <itunes:duration>463</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/pTsG9j6jWBvwzk9kmAgfg7Xtg0OLgLVddhPuULv7.jpg" />
     </item>
     <item>
       <title>30.辛いのは前進している証拠</title>
@@ -353,6 +382,7 @@
       <pubDate>Tue, 22 Jul 2025 14:00:00 GMT</pubDate>
       <itunes:duration>461</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/AsA26XXzIXwaKpbnUk7lWKiLobIgOKQTdhbxANtq.jpg" />
     </item>
     <item>
       <title>31.他人の批判をしても、自分の人生は変わらない</title>
@@ -364,6 +394,7 @@
       <pubDate>Tue, 22 Jul 2025 15:00:00 GMT</pubDate>
       <itunes:duration>410</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KGglaK1WLo9JD0waJeVsqED6fYp1DB3KfNY0i9jD.jpg" />
     </item>
     <item>
       <title>32.もうダメだと思った時から本当の勝負が始まる</title>
@@ -375,6 +406,7 @@
       <pubDate>Tue, 22 Jul 2025 16:00:00 GMT</pubDate>
       <itunes:duration>481</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/9kPfGqcGhd4ZK5I2etk0NmcM161QoSwojSQkzNgr.jpg" />
     </item>
     <item>
       <title>33.何も差し出すことができない人間は何も得ることはできない</title>
@@ -386,6 +418,7 @@
       <pubDate>Tue, 22 Jul 2025 17:00:00 GMT</pubDate>
       <itunes:duration>671</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/5y8A0ivjtoUSKmTt0xm5bbqfmprFstBunl0AiYzM.jpg" />
     </item>
     <item>
       <title>34.一点集中する</title>
@@ -397,6 +430,7 @@
       <pubDate>Tue, 22 Jul 2025 18:00:00 GMT</pubDate>
       <itunes:duration>593</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/rygYBMSZYkTyoybNChZAjuItrkZZql4d4WdGUZS0.jpg" />
     </item>
     <item>
       <title>35.最高の学びは人に教えることである</title>
@@ -408,6 +442,7 @@
       <pubDate>Tue, 22 Jul 2025 19:00:00 GMT</pubDate>
       <itunes:duration>595</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/7Vu6lJjifQePxblMNiLgfZyL0PgnRzHhXod5He2D.jpg" />
     </item>
     <item>
       <title>36.結果を出すまでむやみに人と合わない</title>
@@ -419,6 +454,7 @@
       <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
       <itunes:duration>653</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/g3WjMrvMzdEwOU9zUX8sYvwIvaYKJyQqpnkXUPxK.jpg" />
     </item>
     <item>
       <title>37.チャンスにならないピンチはない</title>
@@ -430,6 +466,7 @@
       <pubDate>Sat, 26 Jul 2025 01:00:00 GMT</pubDate>
       <itunes:duration>989</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Mpemrqzv0ejbQ90uCM14DwXg2ud4BsqUOjC4yz6p.jpg" />
     </item>
     <item>
       <title>38.「何をするか」ではなく「どう在るか」</title>
@@ -441,6 +478,7 @@
       <pubDate>Sat, 26 Jul 2025 02:00:00 GMT</pubDate>
       <itunes:duration>546</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/680qnq0sASOPRuPQ7rz1iDjnLo0gEh86PAxMV4Jw.jpg" />
     </item>
     <item>
       <title>39.センスは幻想</title>
@@ -452,6 +490,7 @@
       <pubDate>Sat, 26 Jul 2025 03:00:00 GMT</pubDate>
       <itunes:duration>573</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/uSsu3cYzM7HrZS0ONjddJgH1zJI1ZfK90OkiewmD.jpg" />
     </item>
     <item>
       <title>40.慣性の法則を乗り越える</title>
@@ -463,6 +502,7 @@
       <pubDate>Sat, 26 Jul 2025 04:00:00 GMT</pubDate>
       <itunes:duration>567</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Gq1bQqa07ItrROmLXdjsOKY5LGJAQ6wUfqDx3kKp.jpg" />
     </item>
     <item>
       <title>41.信じる人に会いにいく</title>
@@ -474,6 +514,7 @@
       <pubDate>Sat, 26 Jul 2025 05:00:00 GMT</pubDate>
       <itunes:duration>938</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2E4bbq8e2CoK62RGRY2VmOqmbgywZRpXqeGPUL02.jpg" />
     </item>
     <item>
       <title>42.与えられない人間は何も得ることはできない</title>
@@ -485,6 +526,7 @@
       <pubDate>Sat, 26 Jul 2025 06:00:00 GMT</pubDate>
       <itunes:duration>899</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/spBD7miy4rpUMJZCnRA7wkLG4qDY1bvwS2EnFa49.jpg" />
     </item>
     <item>
       <title>43.もう既に理想は達成された状態である</title>
@@ -496,6 +538,7 @@
       <pubDate>Sat, 26 Jul 2025 07:00:00 GMT</pubDate>
       <itunes:duration>640</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/GJzlGQc35a5i2sM1ZhKHKHZO9PChWnnxJtNlTcvJ.jpg" />
     </item>
     <item>
       <title>44.自分の意見に固執しない</title>
@@ -507,6 +550,7 @@
       <pubDate>Sat, 26 Jul 2025 08:00:00 GMT</pubDate>
       <itunes:duration>512</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/W4DFvcKUdsCF5G460AkY2ZhSwKdWx1K4qvgAAEze.jpg" />
     </item>
     <item>
       <title>45.センターピンを倒せ</title>
@@ -518,6 +562,7 @@
       <pubDate>Sat, 26 Jul 2025 09:00:00 GMT</pubDate>
       <itunes:duration>516</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/q8RAA64pzIU2Z5YacbYsLEmaQ1goQn6GYmXiJMq1.jpg" />
     </item>
     <item>
       <title>46.待っていても人生は変わらない</title>
@@ -529,6 +574,7 @@
       <pubDate>Sat, 26 Jul 2025 10:00:00 GMT</pubDate>
       <itunes:duration>594</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/6LCBHBehT68xqEWI8g6l3PT0zcPri7QavC6t2E9s.jpg" />
     </item>
     <item>
       <title>47.今がもう既に遅いなんてことはない</title>
@@ -540,6 +586,7 @@
       <pubDate>Sat, 26 Jul 2025 11:00:00 GMT</pubDate>
       <itunes:duration>633</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/v9FiKCRpAcyaGC0AmT2EtFngcKc71Bv5feQuMLAo.jpg" />
     </item>
     <item>
       <title>48.苦手は存在しない</title>
@@ -551,6 +598,7 @@
       <pubDate>Sat, 26 Jul 2025 12:00:00 GMT</pubDate>
       <itunes:duration>1157</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2rzjeMYhjH4LQLYsKCdWcTNzLnPuERHxiZBxya4Y.jpg" />
     </item>
     <item>
       <title>49.出る杭は打たれる。出過ぎた杭は打たれない。</title>
@@ -562,6 +610,7 @@
       <pubDate>Sat, 26 Jul 2025 13:00:00 GMT</pubDate>
       <itunes:duration>524</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/WgwxhsKJKDnBfaL7GUXZiRqRDcUyUVDRFcJPMfaJ.jpg" />
     </item>
     <item>
       <title>50.即断即決即行動</title>
@@ -573,6 +622,7 @@
       <pubDate>Sat, 26 Jul 2025 14:00:00 GMT</pubDate>
       <itunes:duration>547</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mfCNFMnq7JC3il06nGRypmAEtbCVBNfd5bMhPSpX.jpg" />
     </item>
     <item>
       <title>51.結果が全て</title>
@@ -584,6 +634,7 @@
       <pubDate>Sat, 26 Jul 2025 15:00:00 GMT</pubDate>
       <itunes:duration>645</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/LZVaIlnnndabnLabU6XeBuxGZHrhSy5OdZ5Hca5j.jpg" />
     </item>
     <item>
       <title>52.長期目線で考える</title>
@@ -595,6 +646,7 @@
       <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
       <itunes:duration>761</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/xJD9G9igskPihsgKoOfonxozofU4VazheAzpkzNT.jpg" />
     </item>
     <item>
       <title>53.失敗は限定的。成功は青天井である。</title>
@@ -606,6 +658,7 @@
       <pubDate>Sun, 27 Jul 2025 01:00:00 GMT</pubDate>
       <itunes:duration>429</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Kra5N31u9tG35lXJSbiCm3YllRMuYVetiMpZoeMn.jpg" />
     </item>
     <item>
       <title>54.ビジネスはありがとうの積み上げである</title>
@@ -617,6 +670,7 @@
       <pubDate>Sun, 27 Jul 2025 02:00:00 GMT</pubDate>
       <itunes:duration>525</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/51YaqP3eoL0K6WTbdchM7Wlr2715IeFu8ScaBptj.jpg" />
     </item>
     <item>
       <title>55.高くジャンプする為には低くしゃがまないといけない</title>
@@ -628,6 +682,7 @@
       <pubDate>Sun, 27 Jul 2025 03:00:00 GMT</pubDate>
       <itunes:duration>528</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Sg4t9O86vcQ4pB9ee5igte0JHJoxvjnmwWPICHBe.jpg" />
     </item>
     <item>
       <title>56.自分の最期を想像する</title>
@@ -639,6 +694,7 @@
       <pubDate>Sun, 27 Jul 2025 04:00:00 GMT</pubDate>
       <itunes:duration>683</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/9RBJGFihhfZX0aOd1qHzV96pCW7zhkcSgTqf9zeZ.jpg" />
     </item>
     <item>
       <title>57.ビジネスに良い悪いはない。好きか嫌いかだけ。</title>
@@ -650,6 +706,7 @@
       <pubDate>Sun, 27 Jul 2025 05:00:00 GMT</pubDate>
       <itunes:duration>832</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/kGum1kFFDHeCwqyCvZTefBgM75VKQqeZPRk8zBNq.jpg" />
     </item>
     <item>
       <title>58.自己投資が一番コスパのいい投資である</title>
@@ -661,6 +718,7 @@
       <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
       <itunes:duration>1033</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/YZS1noLXsEBweDuCudhp0CkZlnpsghiBdsUYm12K.jpg" />
     </item>
     <item>
       <title>59.健康に徹する</title>
@@ -672,6 +730,7 @@
       <pubDate>Mon, 28 Jul 2025 01:00:00 GMT</pubDate>
       <itunes:duration>698</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/iBqimhhH5j7wyt6HTjxa19JZLW24ju8cgZMw43l8.jpg" />
     </item>
     <item>
       <title>60.状況は変えられなくても、解釈は自分で選べる</title>
@@ -683,6 +742,7 @@
       <pubDate>Mon, 28 Jul 2025 02:00:00 GMT</pubDate>
       <itunes:duration>653</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/U0ZN7XQetEkOoI1bUE6hbBneGAYv4UEHS0eQWjQ8.jpg" />
     </item>
     <item>
       <title>61.人脈は作るものではなくできるもの</title>
@@ -694,6 +754,7 @@
       <pubDate>Mon, 28 Jul 2025 03:00:00 GMT</pubDate>
       <itunes:duration>508</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/hT1XQnQEOpFFBesTekctf00LhiEvZy4mewVyVdtH.jpg" />
     </item>
     <item>
       <title>62.主語を自分にする</title>
@@ -705,6 +766,7 @@
       <pubDate>Mon, 28 Jul 2025 04:00:00 GMT</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/oA5tQmlXONc1VmPSaL4zVEpu8bqmlh9Z29xNT8Lf.jpg" />
     </item>
     <item>
       <title>63.人生につまらない仕事をしている時間はない</title>
@@ -716,6 +778,7 @@
       <pubDate>Mon, 28 Jul 2025 05:00:00 GMT</pubDate>
       <itunes:duration>712</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/CLJvKHycMqAcSD7VrVEhvoDm1nlxhg3CGqvE67dw.jpg" />
     </item>
     <item>
       <title>64.コンフォートゾーンからの脱却</title>
@@ -727,6 +790,7 @@
       <pubDate>Mon, 28 Jul 2025 06:00:00 GMT</pubDate>
       <itunes:duration>637</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/rHZXDA3Qha50balEe32YipuHofkKEf0igGWD4nk6.jpg" />
     </item>
     <item>
       <title>65.自分がコントロールできるものだけに集中しろ</title>
@@ -738,17 +802,19 @@
       <pubDate>Mon, 28 Jul 2025 07:00:00 GMT</pubDate>
       <itunes:duration>512</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/MRllfRrm2RdCPfBqPbUteTuIL91mnax6Z9MHcq8J.jpg" />
     </item>
     <item>
-      <title>66.アウトプットから始める</title>
+      <title>66.全部うまくいく</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary> </itunes:summary>
       <description> </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16qKyXRo0-ze8DMMJ9UgI7WeFZarV9Kyf" length="2186977" type="audio/mpeg"/>
-      <guid>https://drive.google.com/uc?export=download&amp;id=16qKyXRo0-ze8DMMJ9UgI7WeFZarV9Kyf</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xj_xg_RUfNiqQ6iS_ATtJn-YOLW0Kalk" length="1647039" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1xj_xg_RUfNiqQ6iS_ATtJn-YOLW0Kalk</guid>
       <pubDate>Mon, 28 Jul 2025 08:00:00 GMT</pubDate>
-      <itunes:duration>526</itunes:duration>
+      <itunes:duration>396</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/zoQSYEGolFOKnHLcEWn6dwOsZOjUJ8J9bjyXFb5n.jpg" />
     </item>
     <item>
       <title>67.周りの人は自分の鏡である</title>
@@ -760,6 +826,7 @@
       <pubDate>Mon, 28 Jul 2025 09:00:00 GMT</pubDate>
       <itunes:duration>476</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/GNV6jhfxuVZPc7cz4bCiqZ33BjH5bcakbXKEzJMj.jpg" />
     </item>
     <item>
       <title>68.100%準備ができた状態はいつまで経っても来ない</title>
@@ -771,6 +838,7 @@
       <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
       <itunes:duration>585</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/BgjtkPtCGDw41Ihn8KAtZFXhWRjqLxpkpODcGK3t.jpg" />
     </item>
     <item>
       <title>69.全てをチャンスに変える</title>
@@ -782,6 +850,7 @@
       <pubDate>Tue, 29 Jul 2025 01:00:00 GMT</pubDate>
       <itunes:duration>766</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2qKdBfd8ryu0RkDVZjjoNfQwKHk7P8JOLcu97GWC.jpg" />
     </item>
     <item>
       <title>70.信じるな。疑うな。確かめろ。</title>
@@ -793,6 +862,7 @@
       <pubDate>Tue, 29 Jul 2025 02:00:00 GMT</pubDate>
       <itunes:duration>535</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/g9KprRbwX7Y4TeOaeMhIYaFI9UetwznFUi4LWGSP.jpg" />
     </item>
     <item>
       <title>71.結果を出している人をTTPしろ</title>
@@ -804,6 +874,7 @@
       <pubDate>Tue, 29 Jul 2025 03:00:00 GMT</pubDate>
       <itunes:duration>646</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/eNoxqGrXog4tozBjBlhmyrmPLX6b1E25nNO3txHh.jpg" />
     </item>
     <item>
       <title>72.100点じゃなくてMAXを出す</title>
@@ -815,6 +886,7 @@
       <pubDate>Tue, 29 Jul 2025 04:00:00 GMT</pubDate>
       <itunes:duration>742</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/QyKExGr8ItUMNFwZakrKCgXmSMpjClmsXLOVXggM.jpg" />
     </item>
     <item>
       <title>73.基準値を上げる</title>
@@ -826,6 +898,7 @@
       <pubDate>Tue, 29 Jul 2025 05:00:00 GMT</pubDate>
       <itunes:duration>623</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/9pWhmlTC3ZTwvncGnK2fjDmtAdXG4RA7PHJxHlP7.jpg" />
     </item>
     <item>
       <title>74.Why思考</title>
@@ -837,6 +910,7 @@
       <pubDate>Tue, 29 Jul 2025 06:00:00 GMT</pubDate>
       <itunes:duration>1860</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2dpoEA6dldDaxOOK9r7zKcQgQZ8yiihNLB9S9pAQ.jpg" />
     </item>
     <item>
       <title>75.自分の無知を自覚する</title>
@@ -848,6 +922,7 @@
       <pubDate>Tue, 29 Jul 2025 07:00:00 GMT</pubDate>
       <itunes:duration>509</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/C6Y495j3pGx5bfC3WMAHOhKOcpSOAAa8Om2SCUHS.jpg" />
     </item>
     <item>
       <title>76.嫌いより好き。好きより夢中。</title>
@@ -859,17 +934,31 @@
       <pubDate>Tue, 29 Jul 2025 08:00:00 GMT</pubDate>
       <itunes:duration>616</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/o2v9ArKpC0CzLSDy1kWAsZHpORz4sc72sIRLapUG.jpg" />
     </item>
     <item>
-      <title>77.マインドセットはもういいやって思わない</title>
+      <title>77.納得できないことにこそ成長機会がある</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZOADlX5a109okEhq24NOU2sXW2qfrOYB" length="2668979" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1ZOADlX5a109okEhq24NOU2sXW2qfrOYB</guid>
+      <pubDate>Tue, 5 Aug 2025 09:00:00 GMT</pubDate>
+      <itunes:duration>644</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/BGHS5AcGpgSFtfHSHFtPVLlc5BjezNeGo74IPvHt.jpg" />
+    </item>
+    <item>
+      <title>78.マインドセットはもういいやって思わない</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary> </itunes:summary>
       <description> </description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W27YE7UO12HXBmlQVe1XMO5hZyW9vlSi" length="3396356" type="audio/mpeg"/>
       <guid>https://drive.google.com/uc?export=download&amp;id=1W27YE7UO12HXBmlQVe1XMO5hZyW9vlSi</guid>
-      <pubDate>Tue, 29 Jul 2025 09:00:00 GMT</pubDate>
+      <pubDate>Tue, 5 Aug 2025 10:00:00 GMT</pubDate>
       <itunes:duration>817</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/JFk1kbvAKM8EkMqGSVFmIRXPYxcq05nRKCxYfnmh.jpg" />
     </item>
     </channel>
 </rss>
