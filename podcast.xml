@@ -960,5 +960,17 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/JFk1kbvAKM8EkMqGSVFmIRXPYxcq05nRKCxYfnmh.jpg" />
     </item>
+    <item>
+      <title>79.短期決戦で結果を出す</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IxoEtkl1pSflwqZHG0oWhRX88Vfow4mS" length="5478271" type="audio/mpeg"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1IxoEtkl1pSflwqZHG0oWhRX88Vfow4mS</guid>
+      <pubDate>Thu, 21 Aug 2025 01:00:00 GMT</pubDate>
+      <itunes:duration>1317</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/a9gFfXLRswN6s6EVjLpUEhILXnWIfhxN0pTze1Hi.jpg" />
+    </item>
     </channel>
 </rss>
